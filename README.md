@@ -24,3 +24,11 @@ A fictional `sales` table with `customer_id`, `sale_date`, and `sale_amount`.
 
 ## ✅ Instructor Access
 Collaborator: @ericmaniraguha
+
+##  THE QUERIES AND THE EXPLANATION
+-   this is the table we used
+-   ![query](https://github.com/user-attachments/assets/34f54bd7-c41e-49ca-b96e-5a71960cc558)
+-   ![Capture](https://github.com/user-attachments/assets/58c43d35-6328-4cda-9306-3b35832fc359)
+-  ![2](https://github.com/user-attachments/assets/492601d1-8fdc-46c1-a485-d629c1e90de6)
+
+  
