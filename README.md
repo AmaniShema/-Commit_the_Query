@@ -53,7 +53,8 @@ The CASE statements then compare the current 'Amount' with the 'PreviousAmount' 
      ![2](https://github.com/user-attachments/assets/52b28d4b-6dcb-4136-ad27-0a159359b1a8)
      ![3](https://github.com/user-attachments/assets/5d7f12eb-a6ca-43b1-b966-1a1005ea2345)
     ![4](https://github.com/user-attachments/assets/b307fe29-d86c-4372-abfe-4a2778838ab6)
-Explanation:
+
+- Explanation:
 RANK() OVER (PARTITION BY Region ORDER BY Amount DESC): This function assigns a rank to each row within each 'Region' based on the 'Amount' in descending order (highest amount gets rank 1).
 PARTITION BY Region: This divides the data into partitions based on the unique values in the 'Region' column. The ranking is performed independently within each region.
 ORDER BY Amount DESC: This specifies the order for ranking within each partition. 'DESC' means ranking from highest to lowest amount.
